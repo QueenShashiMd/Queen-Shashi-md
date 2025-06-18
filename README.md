@@ -1,4 +1,4 @@
-# 🤖 Manu-MD WA Bot V7 ( With Full Buttons ) 💗
+# 🤖 Manu-MD WA Bot V6 ( With Full Buttons ) 💗
 
 ## Manu-MD Bot යනු සම්පූර්ණ බටන් රොබෝ කෙනෙකි...❤
 

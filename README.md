@@ -12,7 +12,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <a href="https://youtube.com/@ManulOfficialTech"> 
-    <img src="https://i.ibb.co/XZFdhy0/IMG-20250102-WA0065.jpg" alt="Manu-MD WA Bot" height="300" width="650">
+    <img src="https://i.ibb.co/XZFdhy0/IMG-20250102-WA0065.jpg" alt="Nuro-Md" height="300" width="650">
   </a> 
 </div>
 
